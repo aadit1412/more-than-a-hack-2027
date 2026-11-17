@@ -1,3 +1,6 @@
+**Our solution: see `solution/README.md`**
+
+
 # More than a Hack 2027 — Phase 1: Ball Possession
 
 **Organised by [Metrica Sports](https://metrica-sports.com), [FC Barcelona](https://www.fcbarcelona.com)
