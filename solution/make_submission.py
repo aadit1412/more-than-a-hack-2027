@@ -38,7 +38,7 @@ FPS = 25
 
 # %% HAND-SET constants (nothing below is fitted to labels)
 K_GAP = 0.4                  # log-odds per metre of nearest-player gap (clipped at 15 m); 5 m gap ~ 88% confident
-TAG_W = 2.0                  # weight of a strong Smart Tagging vote (those tags agree ~88-91% with confident ball frames)
+TAG_W = 2.0                  # weight of a strong Smart Tagging vote (those tags agree ~80-90% with confident ball frames)
 A_NEAR, A_PLAY = 3.0, 2.0    # slope of the dead-ball evidence around its threshold
 SWITCH = 1.0                 # cost of changing state: a confident handover flips in about a second
 LAM = 1 / FPS                # neighbouring frames are near-copies, so scale per-frame evidence by 1/25
